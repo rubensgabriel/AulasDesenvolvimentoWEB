@@ -1,0 +1,50 @@
+main {
+    background-color: #d2d2c1 ;
+    max-width: 900px;
+    margin: auto;
+}
+
+body {
+    background-image: url(fundo.png);
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    background-color: #c5c5b2;
+    padding: 18px;
+}
+
+nav a {
+    color: #4b566a;
+    text-decoration: none;
+    padding: 5px;
+    font-weight: bold;
+}
+
+section {
+    background-color: #e9e9d9;
+    padding: 10px 20px;
+}
+
+section h1 {
+    font-size: 25px;
+    color: #828271;
+}
+
+section p {
+    text-indent: 1cm;
+    text-align: justify;
+    line-height: 25px;
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
+}
+
+footer p {
+    padding-bottom: 10px;
+}
